@@ -82,6 +82,8 @@ celerybeat-schedule
 
 # dotenv
 .env
+.env.testnet
+.env.production
 
 # virtualenv
 .venv
@@ -147,3 +149,5 @@ truffle-local.js
 Gemfile
 Gemfile.lock
 _site/
+/out
+/cache
