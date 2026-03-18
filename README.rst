@@ -1,26 +1,27 @@
 Conditional Tokens Contracts
 ============================
 
-.. image:: https://travis-ci.org/gnosis/conditional-tokens-contracts.svg?branch=master
-   :target: https://travis-ci.org/gnosis/conditional-tokens-contracts
-   :alt: Build Status
+This is a fork from `gnosis/conditional-tokens-contracts <https://github.com/gnosis/conditional-tokens-contracts>`_.
 
-.. image:: https://badges.greenkeeper.io/gnosis/conditional-tokens-contracts.svg
-   :target: https://greenkeeper.io/
-   :alt: Greenkeeper badge
+----
 
-Smart contracts for conditional tokens.
+Smart contracts for conditional tokens used in the Pop3 Market.
 
-`→ Online Documentation`_
+Deployments
+-----------
 
-.. _→ Online Documentation: https://docs.gnosis.io/conditionaltokens/
+**Network: Unichain**
 
-The conditional tokens contracts are deployed at the following addresses:
+.. list-table::
+   :widths: 20 80
+   :header-rows: 1
 
-* Mainnet: ```0xC59b0e4De5F1248C1140964E0fF287B192407E0C```
-* xDai: ```0xCeAfDD6bc0bEF976fdCd1112955828E00543c0Ce```
-* Rinkeby: ```0x36bede640D19981A82090519bC1626249984c908```
-
+   * - Network
+     - Address
+   * - Mainnet
+     - ``0xC59b0e4De5F1248C1140964E0fF287B192407E0C``
+   * - Sepolia
+     - ``0xCeAfDD6bc0bEF976fdCd1112955828E00543c0Ce``
 
 License
 -------
