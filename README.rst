@@ -19,9 +19,9 @@ Deployments
    * - Network
      - Address
    * - Mainnet
-     - ``0xC59b0e4De5F1248C1140964E0fF287B192407E0C``
+     - `0xe405194308f5517F367ba8B2A0b0E675a33634d2 <https://uniscan.xyz/address/0xe405194308f5517F367ba8B2A0b0E675a33634d2>`_
    * - Sepolia
-     - ``0xCeAfDD6bc0bEF976fdCd1112955828E00543c0Ce``
+     - `0xe405194308f5517F367ba8B2A0b0E675a33634d2 <https://sepolia.uniscan.xyz/address/0xe405194308f5517F367ba8B2A0b0E675a33634d2>`_
 
 License
 -------
